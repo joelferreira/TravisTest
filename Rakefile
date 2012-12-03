@@ -1,3 +1,3 @@
 task :default do
-  puts "Hello World!"
+  ruby "test.rb"
 end
